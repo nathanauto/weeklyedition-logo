@@ -1,0 +1,2 @@
+# weeklyedition-logo
+weeklyedition-logo
